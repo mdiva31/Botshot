@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreenScene.unity
+    guid: cbd8537387c6ed24d955983c78be1376
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: e4cc45d8fa9381c4cb75633456038556
+  - enabled: 1
+    path: Assets/Scenes/ChoiceScene.unity
+    guid: a7d4c184c0a1f6d4b93e25bf7292c0b3
+  - enabled: 1
+    path: Assets/Scenes/MainGame1.unity
+    guid: 524c957b555520d4b9011fba18374b90
+  - enabled: 1
+    path: Assets/Scenes/PopUp1.unity
+    guid: 568842f76a862744898567bf595e34eb
+  - enabled: 1
+    path: Assets/Scenes/MainGame2.unity
+    guid: ac3ceffb14c1a7d409f7f6396a7e8081
+  - enabled: 1
+    path: Assets/Scenes/PopUp2.unity
+    guid: 4ba15b97cb45fc44e8a8cc90fd30c2f4
+  - enabled: 1
+    path: Assets/Scenes/MainGame3.unity
+    guid: bced5593aa88ea04e94c6fa2b32c98fd
+  - enabled: 1
+    path: Assets/Scenes/PopUp3.unity
+    guid: 8ae66de6abbee0e4b9ef16b5674c430c
+  - enabled: 1
+    path: Assets/Scenes/MainGame4.unity
+    guid: 6c894f8c6e925b342b484ae3bf418543
+  - enabled: 1
+    path: Assets/Scenes/PopUp4.unity
+    guid: 49c903864fb6a8b44ad0746c49bd3b83
+  - enabled: 1
+    path: Assets/Scenes/MainGame5.unity
+    guid: a5cd6561a2727c94eab4c064ec94a6fb
+  - enabled: 1
+    path: Assets/Scenes/PopUp5.unity
+    guid: d25e1c293eb1d02479d08dc913f20cc4
+  - enabled: 1
+    path: Assets/Scenes/MainGame6.unity
+    guid: 47fc1c4908c87774ca659ec4cbb6ca2c
+  - enabled: 1
+    path: Assets/Scenes/PopUp6.unity
+    guid: 549b5339c8dea044eacd9cbeb7f27eed
+  - enabled: 1
+    path: Assets/Scenes/MainGame7.unity
+    guid: 2077b22d64d54f845b281340011cca4f
+  - enabled: 1
+    path: Assets/Scenes/PopUp7.unity
+    guid: 4d064f6e27080cf4787654012bba5d6f
+  - enabled: 1
+    path: Assets/Scenes/MainGame8.unity
+    guid: db603dc0779498a40bed526d4f030f19
+  - enabled: 1
+    path: Assets/Scenes/PopUp8.unity
+    guid: 82468d343948804429b9361675b9aed0
+  - enabled: 1
+    path: Assets/Scenes/MainGame9.unity
+    guid: e45c2fe2d3825a145a6165a2f2073ee0
+  - enabled: 1
+    path: Assets/Scenes/PopUp9.unity
+    guid: 31c5f1b3533370746ac2c807b8272247
+  - enabled: 1
+    path: Assets/Scenes/MainGame10.unity
+    guid: c63c52a2c5a728f4c8c6923ca3b07227
+  - enabled: 1
+    path: Assets/Scenes/FinalPopUp.unity
+    guid: 4bc54d9bf20274e4e8a764ab3bdb2204
+  - enabled: 1
+    path: Assets/Scenes/Failed.unity
+    guid: e3ca43522f1689342a2c129fea9e51e4
+  - enabled: 1
+    path: Assets/Scenes/TimeAttackScene.unity
+    guid: 4134c4d6a4eff724fbf179cdcb66ee74
+  - enabled: 1
+    path: Assets/Scenes/TimeAttack1.unity
+    guid: 8724f26b651fcfd4583231473ca552a7
+  - enabled: 1
+    path: Assets/Scenes/PopUpTA1.unity
+    guid: efb85634ee19eac438305098fedeb2f7
+  - enabled: 1
+    path: Assets/Scenes/TimeAttack2.unity
+    guid: a0405712c08e7ac40bc543ec6273c0be
+  - enabled: 1
+    path: Assets/Scenes/PopUpTA2.unity
+    guid: ab4c001c6d2eabd4ebc98ebb0925b5f8
+  - enabled: 1
+    path: Assets/Scenes/TimeAttack3.unity
+    guid: e7a6ed44c294ebb4e887b3ba291de876
+  - enabled: 1
+    path: Assets/Scenes/PopUpTA3.unity
+    guid: 6577894b9869441409e1b3d8d876f823
+  - enabled: 1
+    path: Assets/Scenes/HowToPlayScene.unity
+    guid: 50b546b9461c0194cbcf3608d2cfbb48
+  - enabled: 1
+    path: Assets/Scenes/AboutScene.unity
+    guid: 43e23f6b8feee7446a4a401eb5ee3fb8
+  - enabled: 1
+    path: Assets/Scenes/SettingsScene.unity
+    guid: 92f3730e53618014eaa375c4c7af1029
+  - enabled: 1
+    path: Assets/Scenes/ExitConfirmation.unity
+    guid: 6cb5a108b18951a459b1daf3335a29c0
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a9182e3b450979c46acf59842780f98c,
+      type: 2}
